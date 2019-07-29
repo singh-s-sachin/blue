@@ -1,0 +1,6 @@
+framework module Pods_doodletestUITests {
+  umbrella header "Pods-doodletestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

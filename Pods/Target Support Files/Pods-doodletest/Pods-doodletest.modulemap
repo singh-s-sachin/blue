@@ -1,0 +1,6 @@
+framework module Pods_doodletest {
+  umbrella header "Pods-doodletest-umbrella.h"
+
+  export *
+  module * { export * }
+}
